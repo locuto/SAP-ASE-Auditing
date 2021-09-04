@@ -1,1 +1,0 @@
-exec sybsecurity..sp_audit "all",'user','all',"on"
